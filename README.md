@@ -6,9 +6,9 @@ Part 4 of creating an on-premise Active Directory that simulates a real-life ent
 
 <h3>Key Accomplishments</h3>
 
-- **Password Policy**: Implemented a GPO to enforce complex password rules, enhancing security across the network.
-- **Drive Mapping Preferences**: Set up a GPO to automate network drive mappings, improving user access and efficiency.
-- **Desktop Wallpaper Policy**: Established a GPO to enforce a standard desktop background, ensuring uniformity and reinforcing branding.
-- **Control Panel Policy**: Created a GPO to restrict access to the Control Panel, preventing unauthorised changes and maintaining consistency.
-- **Disable USB Devices Policy**: Implemented a GPO to block USB ports, reducing security risks from removable media.
-- **Account Lockout Policy**: Set up a GPO to lock user accounts after a specified number of failed login attempts, protecting against brute force attacks.
+- **Password Policy**: Enforced complex password rules for enhanced security.
+- **Drive Mapping**: Automated network drive setups for user efficiency.
+- **Desktop Wallpaper**: Standardised desktop backgrounds for uniformity.
+- **Control Panel**: Restricted Control Panel access to prevent unauthorised changes.
+- **USB Devices**: Disabled USB ports to mitigate security risks.
+- **Account Lockout**: Locked accounts after failed logins to prevent brute force attacks.
